@@ -1,5 +1,3 @@
-import ../app
-
 proc e404*(): string =
     result = ""
 
