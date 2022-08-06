@@ -6,3 +6,5 @@ bin/*
 !bin/assets
 storage/*
 /pkginfo.json
+vagrant-ssh
+/.cache

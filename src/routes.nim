@@ -1,4 +1,3 @@
-import supranim/router
 import controller/[pages, err]
 
 # A simple GET route
